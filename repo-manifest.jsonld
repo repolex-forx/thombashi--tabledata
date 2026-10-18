@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/thombashi/tabledata/commit/09e26a968af42a404e0b86b21596922b774f8942",
       "git:hexsha": "09e26a968af42a404e0b86b21596922b774f8942",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.3.5"
     },
     {
