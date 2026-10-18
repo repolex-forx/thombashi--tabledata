@@ -1,0 +1,11 @@
+{
+  "org": "thombashi",
+  "repo": "tabledata",
+  "versions": [
+    {
+      "commit": "09e26a968af42a404e0b86b21596922b774f8942",
+      "tag": "v1.3.5",
+      "parsed_at": "2026-10-18T09:21:59.999325+00:00"
+    }
+  ]
+}
